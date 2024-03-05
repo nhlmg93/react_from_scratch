@@ -277,5 +277,5 @@ function Counter() {
   );
 }
 const element = <Counter />;
-const container = document.getElementById("root");
+const container = document.getElementById("app");
 Didact.render(element, container);
